@@ -1,4 +1,4 @@
-package com.ohchiko.restful;
+package com.ohchiko.restful.employee;
 
 import static org.springframework.hateoas.mvc.ControllerLinkBuilder.*;
 

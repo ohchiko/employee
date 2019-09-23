@@ -1,4 +1,4 @@
-package com.ohchiko.restful;
+package com.ohchiko.restful.employee;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
